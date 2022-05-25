@@ -14,6 +14,6 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     public String sayHello() {
-        return "Really appreciate your star, that's the power of our life.";
+        return "欢迎使用Kubespere DevOps流水线 部署项目";
     }
 }
